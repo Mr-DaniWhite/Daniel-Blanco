@@ -12,27 +12,27 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none; background: none;">
     <td width="50%" style="vertical-align: top; border: none; padding-right: 20px;">
-      <h4 style="color:#2196F3; margin-bottom: 8px;"> Data Center Architecture</h4>
+      <h4 style="color:#2196F3; margin-bottom: 8px;">Data Center Architecture</h4>
       <p style="margin: 0 0 15px 0; font-size: 0.95em;">
         <strong>Cisco:</strong> Extensive engineering with Cisco ACI platforms, Nexus infrastructure, and core migrations.<br>
         <strong>Arista:</strong> End-to-end deployment of production infrastructures using modern fabric designs and EVPN-VXLAN.<br>
         <strong>Nokia:</strong> Integration of high-performance routing matrices within DC environments.<br>
         <strong>Vyos:</strong> Deployment of open-source routing solutions for agile virtualized topologies.
       </p>
-      <h4 style="color:#2196F3; margin-bottom: 8px;"> SD-WAN & Network Security</h4>
+      <h4 style="color:#2196F3; margin-bottom: 8px;">SD-WAN & Network Security</h4>
       <p style="margin: 0; font-size: 0.95em;">
         <strong>Cisco:</strong> Design and implementation of secure enterprise wide-area networks.<br>
         <strong>Palo Alto:</strong> Architectural leadership in Zero Trust Architecture, Panorama platforms, and next-generation firewalls.
       </p>
     </td>
     <td width="50%" style="vertical-align: top; border: none; padding-left: 20px;">
-      <h4 style="color:#2196F3; margin-bottom: 8px;"> Service Provider Infrastructure</h4>
+      <h4 style="color:#2196F3; margin-bottom: 8px;">Service Provider Infrastructure</h4>
       <p style="margin: 0 0 15px 0; font-size: 0.95em;">
         <strong>Cisco:</strong> Core routing/switching architecture validation and lifecycle management for tier-1 accounts.<br>
         <strong>Nokia:</strong> Scalable backbone engineering and service provider routing implementation.<br>
         <strong>Juniper:</strong> Robust enterprise-grade routing, switching, and secure edge frameworks.
       </p>
-      <h4 style="color:#2196F3; margin-bottom: 8px;"> Automation & NetDevOps</h4>
+      <h4 style="color:#2196F3; margin-bottom: 8px;">Automation & NetDevOps</h4>
       <p style="margin: 0; font-size: 0.95em;">
         <strong>Python:</strong> Custom scripting for multi-vendor interaction and zero-touch provisioning pipelines.<br>
         <strong>Ansible:</strong> Playbook orchestration, Jinja2 template rendering, and YAML data-modeling.<br>
@@ -79,4 +79,18 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 ---
 
 ## <span style="color:#2196F3; font-weight: 600;">Connect</span>
-* 🔗 [LinkedIn Profile](https://www.linkedin.com/in/daniel-blanco-38704914b/)
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none; background: none;">
+    <td style="border: none; padding-right: 15px;">
+      <a href="https://www.linkedin.com/in/daniel-blanco-38704914b/" target="_blank" style="text-decoration: none;">
+        <div style="background-color: #2196F3; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; font-family: sans-serif; display: inline-block;">LinkedIn Profile</div>
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="Resume Daniel Blanco 2026.pdf" target="_blank" style="text-decoration: none;">
+        <div style="background-color: #111c24; color: #2196F3; border: 1px solid #2196F3; padding: 9px 20px; border-radius: 5px; font-weight: bold; font-family: sans-serif; display: inline-block;">Download Curriculum Vitae (PDF)</div>
+      </a>
+    </td>
+  </tr>
+</table>
