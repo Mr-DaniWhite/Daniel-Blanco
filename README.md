@@ -34,19 +34,9 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ## <span style="color:#2196F3;">Selected Projects</span>
 
-### Automated Data Center Fabric Provisioning
-Playbooks and infrastructure-as-code templates for automated multi-tenant deployment in Cisco ACI and routing under EVPN-VXLAN environments.
-`Ansible` `Python` `Cisco ACI` `EVPN-VXLAN`
+### 📂 Automated Data Center Fabric Provisioning
+```text
+Playbooks and infrastructure-as-code templates for automated multi-tenant deployment 
+in Cisco ACI and routing under EVPN-VXLAN environments.
 
-### Multi-Vendor Security Automation Workflow
-End-to-end automation pipelines to orchestrate policy updates and access reviews across Palo Alto and Fortinet architectures.
-`N8N` `Python` `Palo Alto` `Fortinet`
-
-### Service Provider Configuration Compliance
-Automated scripts for zero-touch infrastructure provisioning and configuration validation across multi-vendor backbone environments.
-`Python` `Ansible` `Cisco` `Nokia` `Juniper`
-
----
-
-## <span style="color:#2196F3;">Connect</span>
-* [LinkedIn Profile](https://www.linkedin.com/in/daniel-blanco-38704914b/)
+🏷️ Tags: Ansible | Python | Cisco ACI | EVPN-VXLAN
