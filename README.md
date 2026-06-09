@@ -1,4 +1,4 @@
-<img src="Foto Daniel Blanco 2026.png" align="right" width="150" style="margin-left: 20px; margin-bottom: 20px; border-radius: 50%;">
+<img src="Foto Daniel Blanco 2026.png" align="right" width="140" style="border-radius: 50%; margin-left: 20px; margin-bottom: 20px;">
 
 # <span style="color:#2196F3;">Daniel Blanco</span>
 ### Data Center Fabric & Network Automation Architect
@@ -34,9 +34,43 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ## <span style="color:#2196F3;">Selected Projects</span>
 
-### 📂 Automated Data Center Fabric Provisioning
-```text
-Playbooks and infrastructure-as-code templates for automated multi-tenant deployment 
-in Cisco ACI and routing under EVPN-VXLAN environments.
+<table width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr style="background-color: #161b22; border: 1px solid #30363d;">
+    <td style="padding: 16px; border-radius: 6px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <strong style="font-size: 1.1em; color: #f0f6fc;">Automated Data Center Fabric Provisioning</strong>
+        <span style="color: #2196F3; font-family: monospace; font-size: 0.9em; float: right;">Ansible • Python • Cisco ACI</span>
+      </div>
+      <p style="color: #8b949e; margin: 8px 0 0 0; font-size: 0.95em;">Playbooks and infrastructure-as-code templates for automated multi-tenant deployment in Cisco ACI and routing under EVPN-VXLAN environments.</p>
+    </td>
+  </tr>
+</table>
 
-🏷️ Tags: Ansible | Python | Cisco ACI | EVPN-VXLAN
+<table width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr style="background-color: #161b22; border: 1px solid #30363d;">
+    <td style="padding: 16px; border-radius: 6px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <strong style="font-size: 1.1em; color: #f0f6fc;">Multi-Vendor Security Automation Workflow</strong>
+        <span style="color: #2196F3; font-family: monospace; font-size: 0.9em; float: right;">N8N • Python • Palo Alto</span>
+      </div>
+      <p style="color: #8b949e; margin: 8px 0 0 0; font-size: 0.95em;">End-to-end automation pipelines to orchestrate policy updates and access reviews across Palo Alto and Fortinet architectures.</p>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr style="background-color: #161b22; border: 1px solid #30363d;">
+    <td style="padding: 16px; border-radius: 6px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <strong style="font-size: 1.1em; color: #f0f6fc;">Service Provider Configuration Compliance</strong>
+        <span style="color: #2196F3; font-family: monospace; font-size: 0.9em; float: right;">Python • Ansible • Juniper</span>
+      </div>
+      <p style="color: #8b949e; margin: 8px 0 0 0; font-size: 0.95em;">Automated scripts for zero-touch infrastructure provisioning and configuration validation across multi-vendor backbone environments.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## <span style="color:#2196F3;">Connect</span>
+* [LinkedIn Profile](https://www.linkedin.com/in/daniel-blanco-38704914b/)
