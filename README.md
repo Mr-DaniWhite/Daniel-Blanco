@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Mr-DaniWhite/Daniel-Blanco/main/Foto%20Daniel%20Blanco%202026.png" align="right" width="180" style="border-radius: 50%; margin-left: 20px; margin-bottom: 20px;">
+<img src="Foto Daniel Blanco 2026.png" align="right" width="150" style="margin-left: 20px; margin-bottom: 20px; border-radius: 50%;">
 
 # <span style="color:#2196F3;">Daniel Blanco</span>
 ### Data Center Fabric & Network Automation Architect
