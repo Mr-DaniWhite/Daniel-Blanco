@@ -1,9 +1,5 @@
 <div style="font-family: Calibri, 'Segoe UI', Arial, sans-serif;">
 
-<p align="center">
-  <img src="Daniel Blanco Banner.jpg" alt="Daniel Blanco - Data Center Fabric & Network Automation Architect" width="100%">
-</p>
-
 📍 **Madrid, Spain**
 
 Senior Network Engineering Leader with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures. Focused on scaling Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven environments.
@@ -36,16 +32,18 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
         <img src="https://img.shields.io/badge/-Nokia-0B409C?style=flat&logo=nokia&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Nokia:</strong> Scalable backbone engineering and service provider routing implementation.<br>
         <img src="https://img.shields.io/badge/-Juniper-F44336?style=flat&logo=juniper-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Juniper:</strong> Robust enterprise-grade routing, switching, and secure edge frameworks.
       </p>
-      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Cloud Networking</h4>
+      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Cloud Networking & Automation</h4>
       <p style="margin: 0 0 20px 0; font-size: 0.95em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>AWS:</strong> Design and deployment of cloud infrastructure using VPCs, Transit Gateways, Direct Connect, and Route 53.<br>
-        <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Azure:</strong> Implementation of enterprise hub-spoke topologies, Virtual WAN, ExpressRoute, and secure VNet architectures.
+        <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>AWS:</strong> Design and cloud deployment.<br>
+        <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Azure:</strong> Hub-spoke topologies and ExpressRoute.<br>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Python:</strong> Multi-vendor pipelines.<br>
+        <img src="https://img.shields.io/badge/-Ansible-CC0000?style=flat&logo=ansible&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Ansible:</strong> Playbook orchestration.
       </p>
-      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Automation & NetDevOps</h4>
+      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Server Virtualization</h4>
       <p style="margin: 0; font-size: 0.95em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Python:</strong> Custom scripting for multi-vendor interaction and zero-touch provisioning pipelines.<br>
-        <img src="https://img.shields.io/badge/-Ansible-CC0000?style=flat&logo=ansible&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Ansible:</strong> Playbook orchestration, Jinja2 template rendering, and YAML data-modeling.<br>
-        <img src="https://img.shields.io/badge/-n8n-FF6C37?style=flat&logo=n8n&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>N8N:</strong> Advanced workflow automation and integration of network processes.
+        <img src="https://img.shields.io/badge/-Proxmox-E74C3C?style=flat&logo=proxmox&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Proxmox:</strong> Open-source hypervisor environments, cluster management, and hyperconverged infrastructure.<br>
+        <img src="https://img.shields.io/badge/-VMware-60B414?style=flat&logo=vmware&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>VMware:</strong> Enterprise vSphere architectures, ESXi deployments, and virtual network integration.<br>
+        <img src="https://img.shields.io/badge/-KVM-333333?style=flat&logo=linux&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>KVM:</strong> Kernel-based virtual machines for scalable and optimized open-source compute layers.
       </p>
     </td>
   </tr>
