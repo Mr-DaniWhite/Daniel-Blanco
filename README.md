@@ -12,36 +12,36 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
   <tr style="border: none; background: none;">
     <td width="50%" style="vertical-align: top; border: none; padding-right: 25px; padding-top: 0;">
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Data Center Architecture</h4>
-      <p style="margin: 0 0 20px 0; font-size: 0.95em; line-height: 1.8;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Cisco:</strong> Extensive engineering with Cisco ACI platforms, Nexus infrastructure, and core migrations.<br>
-        <img src="https://api.iconify.design/logos:arista.svg" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Arista:</strong> End-to-end deployment of production infrastructures using modern fabric designs and EVPN-VXLAN.<br>
-        <img src="https://api.iconify.design/logos:nokia Lights.svg" src-fallback="https://api.iconify.design/simple-icons:nokia.svg" color="#0b409c" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Nokia:</strong> Integration of high-performance routing matrices within DC environments.<br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Vyos:</strong> Deployment of open-source routing solutions for agile virtualized topologies.
+      <p style="margin: 0 0 20px 0; font-size: 0.95em; line-height: 1.9;">
+        <img src="https://img.icons8.com/color/48/cisco.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Cisco:</strong> Extensive engineering with Cisco ACI platforms, Nexus infrastructure, and core migrations.<br>
+        <img src="https://img.icons8.com/color/48/cloud-storage.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Arista:</strong> End-to-end deployment of production infrastructures using modern fabric designs and EVPN-VXLAN.<br>
+        <img src="https://img.icons8.com/color/48/network-cable.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Nokia:</strong> Integration of high-performance routing matrices within DC environments.<br>
+        <img src="https://img.icons8.com/color/48/linux--v1.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Vyos:</strong> Deployment of open-source routing solutions for agile virtualized topologies.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">SD-WAN & Network Security</h4>
       <p style="margin: 0; font-size: 0.95em; line-height: 1.8;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Cisco:</strong> Design and implementation of secure enterprise wide-area networks.<br>
-        <img src="https://api.iconify.design/simple-icons:paloaltonetworks.svg" color="#EC6623" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Palo Alto:</strong> Architectural leadership in Zero Trust Architecture and Panorama platforms.<br>
-        <img src="https://api.iconify.design/simple-icons:fortinet.svg" color="#EE3124" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Fortinet:</strong> Deployment of next-generation firewalls, orchestrating automated policy updates and access reviews.
+        <img src="https://img.icons8.com/color/48/cisco.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Cisco:</strong> Design and implementation of secure enterprise wide-area networks.<br>
+        <img src="https://img.icons8.com/color/48/shield.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Palo Alto:</strong> Architectural leadership in Zero Trust Architecture and Panorama platforms.<br>
+        <img src="https://img.icons8.com/color/48/lock-shield.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Fortinet:</strong> Deployment of next-generation firewalls, orchestrating automated policy updates and access reviews.
       </p>
     </td>
     <td width="50%" style="vertical-align: top; border: none; padding-left: 25px; padding-top: 0;">
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Service Provider Infrastructure</h4>
       <p style="margin: 0 0 20px 0; font-size: 0.95em; line-height: 1.8;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Cisco:</strong> Core routing/switching architecture validation and lifecycle management for tier-1 accounts.<br>
-        <img src="https://api.iconify.design/simple-icons:nokia.svg" color="#0B409C" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Nokia:</strong> Scalable backbone engineering and service provider routing implementation.<br>
-        <img src="https://api.iconify.design/logos:juniper.svg" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Juniper:</strong> Robust enterprise-grade routing, switching, and secure edge frameworks.
+        <img src="https://img.icons8.com/color/48/cisco.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Cisco:</strong> Core routing/switching architecture validation and lifecycle management for tier-1 accounts.<br>
+        <img src="https://img.icons8.com/color/48/network-cable.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Nokia:</strong> Scalable backbone engineering and service provider routing implementation.<br>
+        <img src="https://img.icons8.com/color/48/router.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Juniper:</strong> Robust enterprise-grade routing, switching, and secure edge frameworks.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Cloud Networking</h4>
       <p style="margin: 0 0 20px 0; font-size: 0.95em; line-height: 1.8;">
-        <img src="https://api.iconify.design/logos:aws.svg" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>AWS:</strong> Design and deployment of cloud infrastructure using VPCs, Transit Gateways, Direct Connect, and Route 53.<br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Azure:</strong> Implementation of enterprise hub-spoke topologies, Virtual WAN, ExpressRoute, and secure VNet architectures.
+        <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>AWS:</strong> Design and deployment of cloud infrastructure using VPCs, Transit Gateways, Direct Connect, and Route 53.<br>
+        <img src="https://img.icons8.com/color/48/azure-1.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Azure:</strong> Implementation of enterprise hub-spoke topologies, Virtual WAN, ExpressRoute, and secure VNet architectures.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Automation & NetDevOps</h4>
       <p style="margin: 0; font-size: 0.95em; line-height: 1.8;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Python:</strong> Custom scripting for multi-vendor interaction and zero-touch provisioning pipelines.<br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Ansible:</strong> Playbook orchestration, Jinja2 template rendering, and YAML data-modeling.<br>
-        <img src="https://api.iconify.design/logos:n8n.svg" width="22" height="22" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>N8N:</strong> Advanced workflow automation and integration of network processes.
+        <img src="https://img.icons8.com/color/48/python--v1.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Python:</strong> Custom scripting for multi-vendor interaction and zero-touch provisioning pipelines.<br>
+        <img src="https://img.icons8.com/color/48/ansible.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>Ansible:</strong> Playbook orchestration, Jinja2 template rendering, and YAML data-modeling.<br>
+        <img src="https://img.icons8.com/color/48/workflow.png" width="26" height="26" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"> <strong>N8N:</strong> Advanced workflow automation and integration of network processes.
       </p>
     </td>
   </tr>
@@ -91,6 +91,9 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
       <a href="https://linktr.ee/daniel.blanco.work" target="_blank" style="text-decoration: none;">
         <div style="background-color: #2196F3; color: white; padding: 10px 24px; border-radius: 5px; font-weight: bold; font-family: sans-serif; display: inline-block;">Contact Me</div>
       </a>
+    </td>
+  </tr>
+</table>
     </td>
   </tr>
 </table>
