@@ -13,35 +13,35 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
     <td width="50%" style="vertical-align: top; border: none; padding-right: 25px; padding-top: 0;">
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Data Center Architecture</h4>
       <p style="margin: 0 0 20px 0; font-size: 0.95em; line-height: 2.2;">
-        ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) <strong>Cisco:</strong> Extensive engineering with Cisco ACI platforms, Nexus infrastructure, and core migrations.<br>
-        ![Arista](https://img.shields.io/badge/-Arista-005A9C?style=flat&logo=arista&logoColor=white) <strong>Arista:</strong> End-to-end deployment of production infrastructures using modern fabric designs and EVPN-VXLAN.<br>
-        ![Nokia](https://img.shields.io/badge/-Nokia-0B409C?style=flat&logo=nokia&logoColor=white) <strong>Nokia:</strong> Integration of high-performance routing matrices within DC environments.<br>
-        ![VyOS](https://img.shields.io/badge/-VyOS-007ACC?style=flat&logo=linux&logoColor=white) <strong>Vyos:</strong> Deployment of open-source routing solutions for agile virtualized topologies.
+        <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco:</strong> Extensive engineering with Cisco ACI platforms, Nexus infrastructure, and core migrations.<br>
+        <img src="https://img.shields.io/badge/-Arista-005A9C?style=flat&logo=arista&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista:</strong> End-to-end deployment of production infrastructures using modern fabric designs and EVPN-VXLAN.<br>
+        <img src="https://img.shields.io/badge/-Nokia-0B409C?style=flat&logo=nokia&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Nokia:</strong> Integration of high-performance routing matrices within DC environments.<br>
+        <img src="https://img.shields.io/badge/-VyOS-007ACC?style=flat&logo=linux&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Vyos:</strong> Deployment of open-source routing solutions for agile virtualized topologies.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">SD-WAN & Network Security</h4>
       <p style="margin: 0; font-size: 0.95em; line-height: 2.2;">
-        ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) <strong>Cisco:</strong> Design and implementation of secure enterprise wide-area networks.<br>
-        ![Palo Alto](https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat&logo=palo-alto-networks&logoColor=white) <strong>Palo Alto:</strong> Architectural leadership in Zero Trust Architecture and Panorama platforms.<br>
-        ![Fortinet](https://img.shields.io/badge/-Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white) <strong>Fortinet:</strong> Deployment of next-generation firewalls, orchestrating automated policy updates and access reviews.
+        <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco:</strong> Design and implementation of secure enterprise wide-area networks.<br>
+        <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto:</strong> Architectural leadership in Zero Trust Architecture and Panorama platforms.<br>
+        <img src="https://img.shields.io/badge/-Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet:</strong> Deployment of next-generation firewalls, orchestrating automated policy updates and access reviews.
       </p>
     </td>
     <td width="50%" style="vertical-align: top; border: none; padding-left: 25px; padding-top: 0;">
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Service Provider Infrastructure</h4>
       <p style="margin: 0 0 20px 0; font-size: 0.95em; line-height: 2.2;">
-        ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) <strong>Cisco:</strong> Core routing/switching architecture validation and lifecycle management for tier-1 accounts.<br>
-        ![Nokia](https://img.shields.io/badge/-Nokia-0B409C?style=flat&logo=nokia&logoColor=white) <strong>Nokia:</strong> Scalable backbone engineering and service provider routing implementation.<br>
-        ![Juniper](https://img.shields.io/badge/-Juniper-F44336?style=flat&logo=juniper-networks&logoColor=white) <strong>Juniper:</strong> Robust enterprise-grade routing, switching, and secure edge frameworks.
+        <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco:</strong> Core routing/switching architecture validation and lifecycle management for tier-1 accounts.<br>
+        <img src="https://img.shields.io/badge/-Nokia-0B409C?style=flat&logo=nokia&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Nokia:</strong> Scalable backbone engineering and service provider routing implementation.<br>
+        <img src="https://img.shields.io/badge/-Juniper-F44336?style=flat&logo=juniper-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Juniper:</strong> Robust enterprise-grade routing, switching, and secure edge frameworks.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Cloud Networking</h4>
       <p style="margin: 0 0 20px 0; font-size: 0.95em; line-height: 2.2;">
-        ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) <strong>AWS:</strong> Design and deployment of cloud infrastructure using VPCs, Transit Gateways, Direct Connect, and Route 53.<br>
-        ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) <strong>Azure:</strong> Implementation of enterprise hub-spoke topologies, Virtual WAN, ExpressRoute, and secure VNet architectures.
+        <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>AWS:</strong> Design and deployment of cloud infrastructure using VPCs, Transit Gateways, Direct Connect, and Route 53.<br>
+        <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Azure:</strong> Implementation of enterprise hub-spoke topologies, Virtual WAN, ExpressRoute, and secure VNet architectures.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Automation & NetDevOps</h4>
       <p style="margin: 0; font-size: 0.95em; line-height: 2.2;">
-        ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow) <strong>Python:</strong> Custom scripting for multi-vendor interaction and zero-touch provisioning pipelines.<br>
-        ![Ansible](https://img.shields.io/badge/-Ansible-CC0000?style=flat&logo=ansible&logoColor=white) <strong>Ansible:</strong> Playbook orchestration, Jinja2 template rendering, and YAML data-modeling.<br>
-        ![n8n](https://img.shields.io/badge/-n8n-FF6C37?style=flat&logo=n8n&logoColor=white) <strong>N8N:</strong> Advanced workflow automation and integration of network processes.
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Python:</strong> Custom scripting for multi-vendor interaction and zero-touch provisioning pipelines.<br>
+        <img src="https://img.shields.io/badge/-Ansible-CC0000?style=flat&logo=ansible&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Ansible:</strong> Playbook orchestration, Jinja2 template rendering, and YAML data-modeling.<br>
+        <img src="https://img.shields.io/badge/-n8n-FF6C37?style=flat&logo=n8n&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>N8N:</strong> Advanced workflow automation and integration of network processes.
       </p>
     </td>
   </tr>
