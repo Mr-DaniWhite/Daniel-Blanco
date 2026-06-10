@@ -1,5 +1,9 @@
-# <span style="color:#2196F3; font-weight: 700;">Daniel Blanco</span>
-### Data Center Fabric & Network Automation Architect
+<div style="font-family: Calibri, 'Segoe UI', Arial, sans-serif;">
+
+<p align="center">
+  <img src="Daniel Blanco Banner.jpg" alt="Daniel Blanco - Data Center Fabric & Network Automation Architect" width="100%">
+</p>
+
 📍 **Madrid, Spain**
 
 Senior Network Engineering Leader with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures. Focused on scaling Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven environments.
@@ -94,3 +98,5 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
     </td>
   </tr>
 </table>
+
+</div>
