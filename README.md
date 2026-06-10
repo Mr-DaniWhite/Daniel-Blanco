@@ -1,3 +1,6 @@
+Aquí tienes todo tu código de GitHub perfectamente unificado. He añadido a **Fortinet** dentro de la sección de seguridad (manteniendo el diseño limpio en dos columnas) y he reemplazado los dos botones del final por un único botón destacado que lleva a tu nuevo Linktree con el texto **Contact Me**.
+
+```markdown
 # <span style="color:#2196F3; font-weight: 700;">Daniel Blanco</span>
 ### Data Center Fabric & Network Automation Architect
 📍 **Madrid, Spain**
@@ -21,7 +24,8 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
       <h4 style="color:#2196F3; margin-bottom: 8px;">SD-WAN & Network Security</h4>
       <p style="margin: 0; font-size: 0.95em;">
         <strong>Cisco:</strong> Design and implementation of secure enterprise wide-area networks.<br>
-        <strong>Palo Alto:</strong> Architectural leadership in Zero Trust Architecture, Panorama platforms, and next-generation firewalls.
+        <strong>Palo Alto:</strong> Architectural leadership in Zero Trust Architecture and Panorama platforms.<br>
+        <strong>Fortinet:</strong> Deployment of next-generation firewalls, orchestrating automated policy updates and access reviews.
       </p>
     </td>
     <td width="50%" style="vertical-align: top; border: none; padding-left: 20px;">
@@ -58,7 +62,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 <table width="100%" style="border-collapse: collapse; margin-bottom: 16px;">
   <tr style="background-color: #111c24;">
     <td style="padding: 20px; border: 1px solid #2d3d4a; border-radius: 6px;">
-      <div style="float: right; font-family: monospace; font-size: 0.85em; color: #2196F3; font-weight: bold; background-color: rgba(33, 150, 243, 0.1); padding: 4px 10px; border-radius: 4px;">N8N • Python • Palo Alto</div>
+      <div style="float: right; font-family: monospace; font-size: 0.85em; color: #2196F3; font-weight: bold; background-color: rgba(33, 150, 243, 0.1); padding: 4px 10px; border-radius: 4px;">N8N • Python • Palo Alto • Fortinet</div>
       <h3 style="margin: 0 0 10px 0; font-size: 1.2em; color: #ffffff; font-weight: 600;">Multi-Vendor Security Automation Workflow</h3>
       <p style="color: #94a3b8; margin: 0; font-size: 0.95em; line-height: 1.6;">End-to-end automation pipelines to orchestrate policy updates and access reviews across Palo Alto and Fortinet architectures.</p>
     </td>
@@ -81,15 +85,12 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none; background: none;">
-    <td style="border: none; padding-right: 15px;">
-      <a href="https://www.linkedin.com/in/daniel-blanco-38704914b/" target="_blank" style="text-decoration: none;">
-        <div style="background-color: #2196F3; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; font-family: sans-serif; display: inline-block;">LinkedIn Profile</div>
-      </a>
-    </td>
     <td style="border: none;">
-      <a href="https://docs.google.com/document/d/1jX76VEhOFuiUBBPz0SMk2LdLLLEk8-cgZz9QrrsHkDE/edit?tab=t.0" target="_blank" style="text-decoration: none;">
-        <div style="background-color: #111c24; color: #2196F3; border: 1px solid #2196F3; padding: 9px 20px; border-radius: 5px; font-weight: bold; font-family: sans-serif; display: inline-block;">See Resume</div>
+      <a href="https://linktr.ee/daniel.blanco.work" target="_blank" style="text-decoration: none;">
+        <div style="background-color: #2196F3; color: white; padding: 10px 24px; border-radius: 5px; font-weight: bold; font-family: sans-serif; display: inline-block;">Contact Me</div>
       </a>
     </td>
   </tr>
 </table>
+
+```
