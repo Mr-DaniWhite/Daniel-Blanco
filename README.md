@@ -133,8 +133,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 - Managed infrastructure operations, system configurations, and physical deployments for integrated voice and data infrastructures.
 - Diagnosed complex layer 2 and layer 3 issues ensuring high availability across corporate access nodes.
 
-### <img src="https://img.shields.io/badge/-Lidernet
--03A9F4?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | Lidernet
+### <img src="https://img.shields.io/badge/-Lidernet-005A9C?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | Lidernet
 *2003 - 2004*
 - Handled technical deployment blueprints, system maintenance, and routing management for custom client networking solutions.
 
