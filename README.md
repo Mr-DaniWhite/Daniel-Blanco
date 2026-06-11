@@ -115,6 +115,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 - Leading comprehensive network design and strategy implementations across multi-vendor hybrid architectures.
 - Overseeing Zero Trust architecture integration and large scale Software-Defined datacenter fabrics.
 - Orchestrating cross-functional teams to replace legacy enterprise perimeters with modern automated networks.
+- **Key Achievement:** Reduced network service provisioning lead times by 65% through the implementation of Infrastructure as Code workflows.
 
 ### <img src="https://img.shields.io/badge/-NTT-006699?style=flat-square&logo=ntt&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Team Leader - Digital Infrastructure | NTT
 *May 2008 - March 2024*
@@ -122,6 +123,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 - Spearheaded complex networking and design engineering projects across globally distributed Data Centers and public cloud landing zones (AWS and Azure).
 - Acted as key point of technical orchestration with premier industry vendors including Cisco, Checkpoint, Fortinet, Arista, Microsoft, VMware, Palo Alto, and Aruba.
 - Promoted to Team Leader in 2016 following a highly successful tenure as a dedicated Professional Services Engineer from 2008.
+- **Key Achievement:** Successfully migrated 40+ legacy corporate branches into a highly resilient Fortinet Secure SD-WAN fabric, achieving 99.999% uptime across critical retail environments.
 
 ### <img src="https://img.shields.io/badge/-Ditelma-4CAF50?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | Ditelma
 *2006 - 2008*
@@ -147,8 +149,10 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 - **Cisco Enterprise Data Center Fabrics:** Structural design of high-density **Cisco ACI Multi-Pod & Multi-Site** environments. Orchestration of APIC controllers, design of multi-tenant segmentation policies (VRFs, Bridge Domains, EPGs), and secure external perimeter routing utilizing optimized **L3Out infrastructure profiles**. High-capacity deployments across **Cisco Nexus series switches** utilizing advanced vPC, Fibre Channel over Ethernet (FCoE), and out-of-band management topologies.
 - **Arista Production EVPN-VXLAN Clos Networks:** High-performance, low-latency leaf-spine modern datacenter fabrics running under **Arista EOS**. Structural engineering of Layer 3 control planes using Multi-Protocol BGP (MP-BGP), hardware-based VXLAN encapsulation, and standardized **Distributed Anycast Gateways** to reduce cross-fabric traffic. Fully orchestrated using **Arista CloudVision Portal (CVP)** for state telemetry, zero-touch provisioning (ZTP), and automated configlets enforcement.
+- **Advanced Fortinet NGFW Security & Edge Cluster Engineering:** Architecture and implementation of enterprise security perimeters running on **FortiGate NGFW appliances** in active-active/active-passive high availability (**FGCP/FGSP clustering**). Advanced deployment of policy segmentation via virtual domains (**VDOMs**), hardware-accelerated **SSL/TLS Deep Packet Inspection** at scale, and centralized contextual access controls utilizing **FortiNAC** for automated asset discovery and dynamic network access isolation.
 - **Secure SD-Branch & Enterprise WAN Topologies:** High-scale corporate over-the-top mesh networks utilizing **Fortinet Secure SD-WAN**. Expert implementation of application-aware path steering, real-time link quality measurement (jitter, latency, packet loss SLAs), and secure, zero-touch distributed switching domains using **FortiSwitch arrays via hardware-enforced FortiLink**.
 - **Centralized Security Operations (FortiManager / FortiAnalyzer):** Architecture design of multi-tenant governance models using ADOMs in **FortiManager** to orchestrate thousands of corporate security policy packages. Aggregation and normalization of telemetry logs using **FortiAnalyzer** clusters to automate compliance reporting and incident detection playbooks.
+- **Cloud Transit Architectures:** Cloud Native Hub-and-Spoke connectivity networks, Managed Transit Gateways, Cross-Cloud Network Security Ingress/Egress Insertion.
 
 ---
 
