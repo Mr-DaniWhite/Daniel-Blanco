@@ -29,12 +29,12 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
       </p>
     </td>
     <td width="33%" style="vertical-align: top; border: none; padding-right: 15px; padding-left: 15px; padding-top: 0;">
-      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em;">Next-Gen Security & SD-WAN</h4>
+      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em;">Fortinet & Next-Gen Security</h4>
       <p style="margin: 0 0 20px 0; font-size: 0.9em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto:</strong> Zero Trust Architecture, SD-WAN & Panorama.<br>
-        <img src="https://img.shields.io/badge/-Fortinet_/_SD--WAN-EE3124?style=flat&logo=fortinet&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet Secure SD-WAN:</strong> Application-aware routing & multi-hub fabrics.<br>
-        <img src="https://img.shields.io/badge/-FortiSwitch-EE3124?style=flat&logo=fortinet&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiSwitch:</strong> Security-driven access layer integration via FortiLink.<br>
-        <img src="https://img.shields.io/badge/-Check_Point-003366?style=flat&logo=checkpoint&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Check Point:</strong> Legacy migrations & Gaia production clusters.
+        <img src="https://img.shields.io/badge/-Fortinet_SD--WAN-EE3124?style=flat&logo=fortinet&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet SD-WAN:</strong> SLA dynamic paths & multi-hub corporate fabrics.<br>
+        <img src="https://img.shields.io/badge/-FortiGate_NGFW-EE3124?style=flat&logo=fortinet&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiGate NGFW:</strong> Edge security policies & automated object tuning.<br>
+        <img src="https://img.shields.io/badge/-FortiSwitch_Fabric-EE3124?style=flat&logo=fortinet&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiSwitch:</strong> Security-driven access topology via hardware FortiLink.<br>
+        <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto:</strong> Zero Trust Architecture, SD-WAN & Panorama controllers.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em;">Modeling & Frameworks</h4>
       <p style="margin: 0; font-size: 0.9em; line-height: 2.2;">
@@ -48,13 +48,13 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Python:</strong> Scripting, API interaction & parsing tooling.<br>
         <img src="https://img.shields.io/badge/-Ansible_/_AWX-CC0000?style=flat&logo=ansible&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Ansible / AWX:</strong> IaC playbook orchestration & Jinja2 modeling.<br>
         <img src="https://img.shields.io/badge/-NetBox-1A1A1A?style=flat&logo=netbox&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>NetBox:</strong> Dynamic Source of Truth (SoT) state integration.<br>
-        <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Git / Versioning:</strong> Peer code reviews & pipeline configuration management.
+        <img src="https://img.shields.io/badge/-FortiManager-EE3124?style=flat&logo=fortinet&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiManager:</strong> Centralized multi-device policy orchestration.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em;">Virtualization & Observability</h4>
       <p style="margin: 0; font-size: 0.9em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-VMware_NSX-60B414?style=flat&logo=vmware&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>VMware NSX:</strong> Overlay infrastructure deployment & software fabric controllers.<br>
+        <img src="https://img.shields.io/badge/-VMware_NSX-60B414?style=flat&logo=vmware&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>VMware NSX:</strong> Overlay infrastructure deployment & software fabrics.<br>
         <img src="https://img.shields.io/badge/-F5_BIG--IP-E61C24?style=flat&logo=f5&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>F5 LTM:</strong> Advanced Application Delivery & profile engine tuning.<br>
-        <img src="https://img.shields.io/badge/-AppDynamics-0185DE?style=flat&logo=appdynamics&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>AppDynamics:</strong> Application performance analytics observability.
+        <img src="https://img.shields.io/badge/-FortiAnalyzer-EE3124?style=flat&logo=fortinet&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiAnalyzer:</strong> Security log analytics & network visibility event tracking.
       </p>
     </td>
   </tr>
@@ -64,8 +64,8 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ## <span style="color:#2196F3; font-weight: 600;">🛠️ Core Architecture Patterns</span>
 
+- **Secure SD-Branch & Enterprise WAN Topologies:** High-scale corporate over-the-top mesh networks utilizing **Fortinet Secure SD-WAN**. Expert implementation of application-aware path steering, real-time link quality measurement (jitter, latency, packet loss SLAs), and secure, zero-touch distributed switching domains using **FortiSwitch arrays via hardware-enforced FortiLink**.
 - **Data Center Fabrics:** Multi-Pod & Multi-Site SDN Layouts, High-Density Leaf-Spine (Clos Network) topologies, Layer 3 EVPN-VXLAN control planes with distributed gateways.
-- **Secure SD-Branch & WAN Topologies:** Highly-resilient cross-vendor SD-WAN overlays, application-aware dynamic path steering, SLA link measurement, and edge security-driven architectures utilizing **Fortinet Secure SD-WAN** alongside **FortiSwitch** fabric integration.
 - **Cloud Transit Architectures:** Cloud Native Hub-and-Spoke connectivity networks, Managed Transit Gateways, Cross-Cloud Network Security Ingress/Egress Insertion.
 - **Zero Trust Security Execution:** Hardware-enforced distributed switch microsegmentation (Aruba CX 10k AMD Pensando), centralized security object state machines via Panorama.
 
@@ -93,8 +93,8 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
     </td>
     <td width="50%" style="vertical-align: top; border: none; padding-left: 25px; padding-top: 0;">
       <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2;">
+        <img src="https://img.shields.io/badge/-Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet NSE Specialist:</strong> FortiGate Security Infrastructure (FCNSA Course).<br>
         <img src="https://img.shields.io/badge/-Juniper-F44336?style=flat&logo=juniper-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Juniper Networks:</strong> JNCIS-ENT & JNCIA Core validation.<br>
-        <img src="https://img.shields.io/badge/-Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet:</strong> FortiGate Security Infrastructure (FCNSA).<br>
         <img src="https://img.shields.io/badge/-Check_Point-003366?style=flat&logo=checkpoint&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Check Point:</strong> CCSA GAIA Deployment systems.<br>
         <img src="https://img.shields.io/badge/-VMware-60B414?style=flat&logo=vmware&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>VMware VCA-DCV:</strong> Data Center Virtualization infrastructure.
       </p>
@@ -106,8 +106,8 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ## <span style="color:#2196F3; font-weight: 600;">Selected Projects</span>
 
+- <img src="https://img.shields.io/badge/-Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="18" style="vertical-align: middle; margin-right: 4px;"> **Global Production Edge Security & Enterprise SD-WAN Migration (Vodafone & Telecable):** Directed the architectural engineering, greenfield/brownfield migration, and production rollout of complex edge securities transitioning from legacy Checkpoint frameworks to advanced **Fortinet NGFW platforms**. Spearheaded the deployment of **Fortinet Secure SD-WAN** across large distributed topologies, optimizing application performance via dynamic SLA link profiling and managing secure, integrated switching fabrics utilizing **FortiSwitch arrays with FortiLink**.
 - <img src="https://img.shields.io/badge/-Ansible-CC0000?style=flat-square&logo=ansible&logoColor=white" height="18" style="vertical-align: middle; margin-right: 4px;"> **Automated Multi-Vendor Infrastructure Validation Lab (Banc Sabadell):** Designed and built a containerized automation ecosystem using Ansible to orchestrate, validate, and test playbooks across complex multi-vendor nodes, including F5 BIG-IP, Checkpoint firewalls, Cisco ACI fabric, Microsoft Azure, and AWS public cloud environments.
-- <img src="https://img.shields.io/badge/-Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="18" style="vertical-align: middle; margin-right: 4px;"> **Core Security & Enterprise SD-WAN Migration (Vodafone & Telecable):** Directed the design, migration, and production rollout of distributed edge security architectures from legacy Checkpoint frameworks to **Fortinet NGFW platforms**. Spearheaded the architectural integration of **Fortinet Secure SD-WAN** for dynamic corporate link management alongside security-driven switching fabrics using **FortiSwitch arrays**.
 - <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="18" style="vertical-align: middle; margin-right: 4px;"> **Cisco ACI Homologation & Global Core Migrations (Vodafone & Carrefour):** Led the platform validation and technical homologation of Cisco ACI infrastructure, managing multiple critical data center migrations and deploying high-performance Nexus architectures for International Out-of-Band Data Centers.
 - <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat-square&logo=palo-alto-networks&logoColor=white" height="18" style="vertical-align: middle; margin-right: 4px;"> **Zero Trust Security Architecture Implementation (Lunik):** Directed the strategic architectural design and deployment of a corporate-wide Zero Trust Architecture (ZTA), leveraging modern Palo Alto Networks Next-Generation Firewalls to ensure granular micro-segmentation.
 - <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat-square&logo=palo-alto-networks&logoColor=white" height="18" style="vertical-align: middle; margin-right: 4px;"> **Centralized Panorama Platform Migration (Lunik):** Managed a complex brownfield migration of enterprise-scale Palo Alto security infrastructures, successfully moving historical policy frameworks and active firewall devices into a centralized Panorama management system without operational downtime.
