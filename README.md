@@ -88,25 +88,16 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ## <span style="color:#2196F3; font-weight: 600;">Selected Projects</span>
 
-<table width="100%" style="border-collapse: collapse; margin-bottom: 16px;">
-  <tr style="background-color: #111c24;">
-    <td style="padding: 20px; border: 1px solid #2d3d4a; border-radius: 6px;">
-      <div style="float: right; font-family: monospace; font-size: 0.85em; color: #2196F3; font-weight: bold; background-color: rgba(33, 150, 243, 0.1); padding: 4px 10px; border-radius: 4px;">Ansible • Python • Cisco ACI</div>
-      <h3 style="margin: 0 0 10px 0; font-size: 1.2em; color: #ffffff; font-weight: 600;">Automated Data Center Fabric Provisioning</h3>
-      <p style="color: #94a3b8; margin: 0; font-size: 0.95em; line-height: 1.6;">Playbooks and infrastructure-as-code templates for automated multi-tenant deployment in Cisco ACI and routing under EVPN-VXLAN environments.</p>
-    </td>
-  </tr>
-</table>
-
-<table width="100%" style="border-collapse: collapse; margin-bottom: 16px;">
-  <tr style="background-color: #111c24;">
-    <td style="padding: 20px; border: 1px solid #2d3d4a; border-radius: 6px;">
-      <div style="float: right; font-family: monospace; font-size: 0.85em; color: #2196F3; font-weight: bold; background-color: rgba(33, 150, 243, 0.1); padding: 4px 10px; border-radius: 4px;">N8N • Python • Palo Alto • Fortinet</div>
-      <h3 style="margin: 0 0 10px 0; font-size: 1.2em; color: #ffffff; font-weight: 600;">Multi-Vendor Security Automation Workflow</h3>
-      <p style="color: #94a3b8; margin: 0; font-size: 0.95em; line-height: 1.6;">End-to-end automation pipelines to orchestrate policy updates and access reviews across Palo Alto and Fortinet architectures.</p>
-    </td>
-  </tr>
-</table>
+- **Automated Multi-Vendor Infrastructure Validation Lab (Banc Sabadell):** Designed and built a containerized automation ecosystem using Ansible to orchestrate, validate, and test playbooks across complex multi-vendor nodes, including F5 BIG-IP, Checkpoint firewalls, Cisco ACI fabric, Microsoft Azure, and AWS public cloud environments.
+- **Cisco ACI Homologation & Global Core Migrations (Vodafone & Carrefour):** Led the platform validation and technical homologation of Cisco ACI infrastructure, managing multiple critical data center migrations and deploying high-performance Nexus architectures for International Out-of-Band Data Centers.
+- **Zero Trust Security Architecture Implementation (Lunik):** Directed the strategic architectural design and deployment of a corporate-wide Zero Trust Architecture (ZTA), leveraging modern Palo Alto Networks Next-Generation Firewalls to ensure granular micro-segmentation.
+- **Centralized Panorama Platform Migration (Lunik):** Managed a complex brownfield migration of enterprise-scale Palo Alto security infrastructures, successfully moving historical policy frameworks and active firewall devices into a centralized Panorama management system without operational downtime.
+- **Enterprise Palo Alto SD-WAN Fabric Deployment (Lunik):** Engineered and deployed a highly resilient and distributed wide-area network topology utilizing Palo Alto Networks SD-WAN to guarantee optimal, low-latency corporate connectivity.
+- **Production EVPN-VXLAN Data Center Fabric Design (Lunik):** Architected and deployed a scalable, high-density EVPN-VXLAN data center network infrastructure from scratch to optimize multi-tenant internal routing.
+- **Arista EVPN-VXLAN Infrastructure Implementation (Tecnalia):** Guided the end-to-end technical deployment of a modern Arista production network infrastructure based on advanced leaf-spine topology designs.
+- **Secure Virtualized Data Centers Insertion (AEAT & NTT):** Spearheaded the infrastructure deployment of VMware Data Center and NSX systems, orchestrating high-throughput security service insertion using physical and virtual appliances alongside native Kubernetes clusters.
+- **Core Production Firewall Migrations (Vodafone & Telecable):** Directed the migration of core edge security services from legacy Checkpoint appliances to next-generation Fortinet architectures, validating throughput and maintaining active traffic state profiles.
+- **Centralized IPAM Infrastructure Optimization (La Caixa):** Managed the structural architecture design and optimization of core enterprise IPAM layouts using Alcatel-Lucent VitalQIP enterprise solutions.
 
 ---
 
