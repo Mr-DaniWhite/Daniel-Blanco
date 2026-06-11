@@ -10,11 +10,6 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">⚡ My NetDevOps Manifesto</span>
-> *"Treat the network as software. If configuration isn't version-controlled in Git and driven by a single Source of Truth, it doesn't exist in production. Automation isn't about working less; it's about eliminating human error at scale."*
-
----
-
 ## <span style="color:#2196F3; font-weight: 600;">Technical Focus & Core Expertise</span>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
@@ -67,12 +62,19 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">📊 GitHub Activity & Metrics</span>
+## <span style="color:#2196F3; font-weight: 600;">🛠️ Core Architecture Patterns</span>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-DaniWhite&show_icons=true&theme=transparent&title_color=2196f3&icon_color=2196f3&text_color=777777&bg_color=00000000&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-DaniWhite&layout=compact&theme=transparent&title_color=2196f3&text_color=777777&bg_color=00000000&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
+- **Data Center Fabrics:** Multi-Pod & Multi-Site SDN Layouts, High-Density Leaf-Spine (Clos Network) topologies, Layer 3 EVPN-VXLAN control planes with distributed gateways.
+- **Enterprise Edge & SD-WAN:** Secure Wide-Area Meshed Topologies, centralized orchestration, zero-touch provisioning deployment templates.
+- **Cloud Transit Architectures:** Cloud Native Hub-and-Spoke connectivity networks, Managed Transit Gateways, Cross-Cloud Network Security Ingress/Egress Insertion.
+- **Zero Trust Security Execution:** Hardware-enforced distributed switch microsegmentation (Aruba CX 10k AMD Pensando), centralized security object state machines via Panorama.
+
+---
+
+## <span style="color:#2196F3; font-weight: 600;">📡 Open-Source Labs & Production Simulation</span>
+
+- **Virtualized Network Topologies:** Design and orchestration of multi-vendor virtual routing nodes using **VyOS** to mirror production environments.
+- **Sandbox Containerization:** Building isolated automation execution layers and test networks inside **Docker** clusters to continuously evaluate Ansible playbooks and validation workflows.
 
 ---
 
@@ -131,7 +133,6 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
   <img src="https://img.shields.io/badge/-NetDevOps-2196F3?style=flat-square" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-GitOps-F05032?style=flat-square&logo=git&logoColor=white" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-Infrastructure_as_Code-333333?style=flat-square" height="24"> &nbsp;
-  <img src="https://img.shields.io/square&logoColor=white" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-CI%2FCD%20Pipelines-1A1A1A?style=flat-square" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-High--Performance_Leadership-0089D6?style=flat-square" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-Agile_Operations-60B414?style=flat-square" height="24">
