@@ -46,14 +46,14 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
         <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>AWS:</strong> Design and cloud deployment.<br>
         <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Azure:</strong> Hub-spoke topologies.<br>
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Python:</strong> Automation scripting.<br>
-        <img src="https://img.shields.io/badge/-Ansible-CC0000?style=flat&logo=ansible&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Ansible:</strong> Infrastructure as Code.<br>
-        <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Nginx L5:</strong> Load balancing, application traffic distribution, reverse proxying, and session persistence.
+        <img src="https://img.shields.io/badge/-Ansible-CC0000?style=flat&logo=ansible&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Ansible:</strong> Infrastructure as Code.
       </p>
-      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Server Virtualization</h4>
+      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Server Virtualization & Traffic Management</h4>
       <p style="margin: 0; font-size: 0.95em; line-height: 2.2;">
         <img src="https://img.shields.io/badge/-Proxmox-E74C3C?style=flat&logo=proxmox&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Proxmox:</strong> Virtual environment management and hyperconverged infrastructure clustering.<br>
         <img src="https://img.shields.io/badge/-VMware-60B414?style=flat&logo=vmware&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>VMware:</strong> vSphere architecture, ESXi virtualization, and corporate compute deployment.<br>
-        <img src="https://img.shields.io/badge/-KVM-333333?style=flat&logo=linux&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>KVM:</strong> Kernel-based open-source infrastructure design and virtual machine provisioning.
+        <img src="https://img.shields.io/badge/-KVM-333333?style=flat&logo=linux&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>KVM:</strong> Kernel-based open-source infrastructure design and virtual machine provisioning.<br>
+        <img src="https://img.shields.io/badge/-F5-E61C24?style=flat&logo=f5&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>F5 BIG-IP:</strong> Load balancing, application traffic distribution, reverse proxying, and session persistence.
       </p>
     </td>
   </tr>
