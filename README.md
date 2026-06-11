@@ -187,9 +187,18 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 - **Advanced Fortinet NGFW Security & Edge Cluster Engineering:** Architecture and implementation of enterprise security perimeters running on **FortiGate NGFW appliances** in active-active/active-passive high availability (**FGCP/FGSP clustering**). Advanced deployment of policy segmentation via virtual domains (**VDOMs**), hardware-accelerated **SSL/TLS Deep Packet Inspection** at scale, and centralized contextual access controls utilizing **FortiNAC** for automated asset discovery and dynamic network access isolation.
 - **Secure Access Layer Integration:** Design and provisioning of secure enterprise switching access topologies. Implementation of automated deployment workflows for **FortiSwitch arrays and FortiAP access nodes via hardware-enforced FortiLink control planes** to consolidate management within the central firewall core.
 - **Centralized Security Operations & Data Analysis (FortiManager / FortiAnalyzer):** Architecture design of multi-tenant governance models using ADOMs in **FortiManager** to orchestrate thousands of corporate security policy packages. Aggregation and normalization of telemetry logs using **FortiAnalyzer** clusters to automate compliance reporting and incident detection playbooks.
+- **Carrier-Grade Security Frameworks (Gi/SGi & CGNAT):** Clear engineering domain over service provider environments, focusing on securing Gi/SGi LAN interfaces, multi-tenant CGNAT scale-out protection maps on high-end FortiGate chassis, and implementing low-latency stateful inspection for massive mobile and fixed-line data planes.
+- **NFV & Telco Cloud Integration:** Deployment of virtualized security functions (VNF) using FortiGate-VM series across OpenStack, VMware vCloud NFV, and carrier-grade container environments to achieve elastic, on-demand security perimeter scaling.
 - **Cisco Enterprise Data Center Fabrics:** Structural design of high-density **Cisco ACI Multi-Pod & Multi-Site** environments. Orchestration of APIC controllers, design of multi-tenant segmentation policies (VRFs, Bridge Domains, EPGs), and secure external perimeter routing utilizing optimized **L3Out infrastructure profiles**. High-capacity deployments across **Cisco Nexus series switches** utilizing advanced vPC, Fibre Channel over Ethernet (FCoE), and out-of-band management topologies.
 - **Arista Production EVPN-VXLAN Clos Networks:** High-performance, low-latency leaf-spine modern datacenter fabrics running under **Arista EOS**. Structural engineering of Layer 3 control planes using Multi-Protocol BGP (MP-BGP), hardware-based VXLAN encapsulation, and standardized **Distributed Anycast Gateways** to reduce cross-fabric traffic. Fully orchestrated using **Arista CloudVision Portal (CVP)** for state telemetry, zero-touch provisioning (ZTP), and automated configlets enforcement.
 - **Cloud Transit Architectures:** Cloud Native Hub-and-Spoke connectivity networks, Managed Transit Gateways, Cross-Cloud Network Security Ingress/Egress Insertion.
+
+---
+
+## <span style="color:#2196F3; font-weight: 600;">Ecosystem Interoperability & Presales Edge</span>
+
+- **Multi-Vendor Core Integration:** Seamless fabric interoperability experience connecting Fortinet security environments with **Cisco (IOS-XR/Nexus)** backbones, **F5 BIG-IP** high-availability local/global load balancers, and legacy **Check Point/Palo Alto** architectures during migration phases.
+- **Technical Consulting & Whiteboarding:** Strong background translating high-level business requirements and complex RFPs into solid, low-level technical reference architectures. Experienced in defending designs in front of Tier-1 operators' engineering steering committees.
 
 ---
 
