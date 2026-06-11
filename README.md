@@ -89,6 +89,10 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ## <span style="color:#2196F3; font-weight: 600;">Selected Projects</span>
 
+<p align="center">
+  <img src="https://blog.opensouthcode.org/images/posts/osc2023-lunik.png" alt="Lunik presenting partner Open South Code 2023" width="75%" style="border-radius: 6px; margin-bottom: 15px;">
+</p>
+
 - <img src="https://img.shields.io/badge/-Ansible-CC0000?style=flat-square&logo=ansible&logoColor=white" height="18" style="vertical-align: middle; margin-right: 4px;"> **Automated Multi-Vendor Infrastructure Validation Lab (Banc Sabadell):** Designed and built a containerized automation ecosystem using Ansible to orchestrate, validate, and test playbooks across complex multi-vendor nodes, including F5 BIG-IP, Checkpoint firewalls, Cisco ACI fabric, Microsoft Azure, and AWS public cloud environments.
 - <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="18" style="vertical-align: middle; margin-right: 4px;"> **Cisco ACI Homologation & Global Core Migrations (Vodafone & Carrefour):** Led the platform validation and technical homologation of Cisco ACI infrastructure, managing multiple critical data center migrations and deploying high-performance Nexus architectures for International Out-of-Band Data Centers.
 - <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat-square&logo=palo-alto-networks&logoColor=white" height="18" style="vertical-align: middle; margin-right: 4px;"> **Zero Trust Security Architecture Implementation (Lunik):** Directed the strategic architectural design and deployment of a corporate-wide Zero Trust Architecture (ZTA), leveraging modern Palo Alto Networks Next-Generation Firewalls to ensure granular micro-segmentation.
