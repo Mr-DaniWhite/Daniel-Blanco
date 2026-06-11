@@ -10,7 +10,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Core Carrier & Telco Footprint</span>
+## <span style="color:#2196F3; font-weight: 600;">Carrier & Telco Architecture Footprint</span>
 
 <p style="font-size: 1.05em; line-height: 1.6; margin-bottom: 20px;">
   A significant portion of my professional career has been deeply focused on <strong>High-Scale Telecommunications and Core Provider Environments</strong>. I have spent years architecting, scaling, and operating mission-critical network infrastructures within major global carriers and wholesale operators:
@@ -18,7 +18,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 <div style="background-color: #fcfcfc; border-left: 5px solid #E60000; padding: 15px; margin-bottom: 15px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
   <h3 style="margin-top: 0; margin-bottom: 8px; color: #E60000;">
-    <img src="https://img.shields.io/badge/-Vodafone-E60000?style=flat-square&logo=vodafone&logoColor=white" height="24" style="vertical-align: middle; margin-right: 8px;"> 
+    <img src="https://img.shields.io/badge/-Vodafone_Environments-E60000?style=flat-square&logo=vodafone&logoColor=white" height="24" style="vertical-align: middle; margin-right: 8px;"> 
     Core Fabric & Infrastructure Homologation
   </h3>
   <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #333;">
@@ -28,7 +28,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 <div style="background-color: #fcfcfc; border-left: 5px solid #00A2BB; padding: 15px; margin-bottom: 15px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
   <h3 style="margin-top: 0; margin-bottom: 8px; color: #00A2BB;">
-    <img src="https://img.shields.io/badge/-Telefonica-00A2BB?style=flat-square&logo=telefonica&logoColor=white" height="24" style="vertical-align: middle; margin-right: 8px;"> 
+    <img src="https://img.shields.io/badge/-Telefonica_Environments-00A2BB?style=flat-square&logo=telefonica&logoColor=white" height="24" style="vertical-align: middle; margin-right: 8px;"> 
     Service Provider Routing & Edge Operations
   </h3>
   <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #333;">
@@ -38,7 +38,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 <div style="background-color: #fcfcfc; border-left: 5px solid #60B414; padding: 15px; margin-bottom: 15px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
   <h3 style="margin-top: 0; margin-bottom: 8px; color: #60B414;">
-    <img src="https://img.shields.io/badge/-Aire_Networks-60B414?style=flat-square" height="24" style="vertical-align: middle; margin-right: 8px;"> 
+    <img src="https://img.shields.io/badge/-Aire_Networks_Backbone-60B414?style=flat-square" height="24" style="vertical-align: middle; margin-right: 8px;"> 
     Wholesale Carrier Networks & Backbone Systems
   </h3>
   <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #333;">
