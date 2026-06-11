@@ -10,6 +10,44 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ---
 
+## <span style="color:#2196F3; font-weight: 600;">Core Carrier & Telco Footprint</span>
+
+<p style="font-size: 1.05em; line-height: 1.6; margin-bottom: 20px;">
+  A significant portion of my professional career has been deeply focused on <strong>High-Scale Telecommunications and Core Provider Environments</strong>. I have spent years architecting, scaling, and operating mission-critical network infrastructures within major global carriers and wholesale operators:
+</p>
+
+<div style="background-color: #fcfcfc; border-left: 5px solid #E60000; padding: 15px; margin-bottom: 15px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+  <h3 style="margin-top: 0; margin-bottom: 8px; color: #E60000;">
+    <img src="https://img.shields.io/badge/-Vodafone-E60000?style=flat-square&logo=vodafone&logoColor=white" height="24" style="vertical-align: middle; margin-right: 8px;"> 
+    Core Fabric & Infrastructure Homologation
+  </h3>
+  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #333;">
+    Years of hands-on engineering dedicated to the structural homologation of next-generation SDN architectures. Led the integration of complex multi-tenant data center environments, active core migrations for highly available routing layers, and production edge security deployment frameworks.
+  </p>
+</div>
+
+<div style="background-color: #fcfcfc; border-left: 5px solid #00A2BB; padding: 15px; margin-bottom: 15px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+  <h3 style="margin-top: 0; margin-bottom: 8px; color: #00A2BB;">
+    <img src="https://img.shields.io/badge/-Telefonica-00A2BB?style=flat-square&logo=telefonica&logoColor=white" height="24" style="vertical-align: middle; margin-right: 8px;"> 
+    Service Provider Routing & Edge Operations
+  </h3>
+  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #333;">
+    Deep alignment with carrier-grade transport environments, engineering large-scale routing platforms, multi-protocol core transport infrastructures, and sophisticated edge perimeter security solutions designed to support mass-volume business critical telemetry.
+  </p>
+</div>
+
+<div style="background-color: #fcfcfc; border-left: 5px solid #60B414; padding: 15px; margin-bottom: 15px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+  <h3 style="margin-top: 0; margin-bottom: 8px; color: #60B414;">
+    <img src="https://img.shields.io/badge/-Aire_Networks-60B414?style=flat-square" height="24" style="vertical-align: middle; margin-right: 8px;"> 
+    Wholesale Carrier Networks & Backbone Systems
+  </h3>
+  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #333;">
+    Design and operational deployment optimization inside specialized wholesale telecommunications backbones. Streamlining transit routing nodes, structural interconnection profiles, and security infrastructure matrices built for resilient data-plane delivery at national scale.
+  </p>
+</div>
+
+---
+
 ## <span style="color:#2196F3; font-weight: 600;">Technical Focus & Core Expertise</span>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
@@ -163,13 +201,13 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Technical Certifications</span>
+## <span style="color:#2196F3; font-weight: 600;">Technical Certifications & Specialized Courses</span>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none; background: none;">
     <td width="50%" style="vertical-align: top; border: none; padding-right: 25px; padding-top: 0;">
       <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-Fortinet_NSE_Network_Security_Expert-EE3124?style=flat&logo=fortinet&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet NSE Specialist Framework:</strong> Advanced Infrastructure Security (FortiGate), Security Operations & Analytics (FortiAnalyzer / FortiManager).<br>
+        <img src="https://img.shields.io/badge/-Fortinet_NSE_Specialist-EE3124?style=flat&logo=fortinet&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet Network Security Specialist / Expert Track:</strong> Advanced Enterprise Firewall Infrastructure, Cloud Security Architecture, and Centralized Management (FortiGate/FortiManager/FortiAnalyzer).<br>
         <img src="https://img.shields.io/badge/-Arista_ACE_L5-005A9C?style=flat&logo=arista&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista Cloud Engineer:</strong> Level 5 (ACE L5) & Level 3 (ACE L3).<br>
         <img src="https://img.shields.io/badge/-Cisco_CCIE-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCIE Framework:</strong> Routing & Switching + Advanced ACI Architecture.
       </p>
