@@ -4,9 +4,9 @@
   <img src="daniel-blanco-banner.jpg" alt="Daniel Blanco - Data Center Fabric & Network Automation Architect" width="100%">
 </p>
 
-📍 **Madrid, Spain**
+[cite_start]📍 **Madrid, Spain** [cite: 3]
 
-Senior Network Engineering Leader with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures. Focused on scaling Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven environments.
+[cite_start]Senior Network Engineering Leader with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures[cite: 5]. [cite_start]Focused on scaling Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven environments[cite: 8].
 
 ---
 
@@ -67,18 +67,18 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
   <tr style="border: none; background: none;">
     <td width="50%" style="vertical-align: top; border: none; padding-right: 25px; padding-top: 0;">
       <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-Arista-005A9C?style=flat&logo=arista&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista Cloud Engineer:</strong> Level 5 (ACE L5) & Level 3 (ACE L3).<br>
-        <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCIE:</strong> Routing & Switching (Written framework).<br>
-        <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCNP:</strong> Enterprise Routing, Switching & Security Fast Track.<br>
-        <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto Networks:</strong> Advanced SD-WAN Frameworks architecture.
+        [cite_start]<img src="https://img.shields.io/badge/-Arista-005A9C?style=flat&logo=arista&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista Cloud Engineer:</strong> Level 5 (ACE L5) & Level 3 (ACE L3)[cite: 68].<br>
+        <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCIE:</strong> Routing & Switching (Written framework)[cite: 68].<br>
+        <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCNP:</strong> Enterprise Routing, Switching & Security Fast Track[cite: 69].<br>
+        <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto Networks:</strong> Advanced SD-WAN Frameworks architecture[cite: 77].
       </p>
     </td>
     <td width="50%" style="vertical-align: top; border: none; padding-left: 25px; padding-top: 0;">
       <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-Juniper-F44336?style=flat&logo=juniper-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Juniper Networks:</strong> JNCIS-ENT & JNCIA Core validation.<br>
-        <img src="https://img.shields.io/badge/-Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet:</strong> FortiGate Security Infrastructure (FCNSA).<br>
-        <img src="https://img.shields.io/badge/-Check_Point-003366?style=flat&logo=checkpoint&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Check Point:</strong> CCSA GAIA Deployment systems.<br>
-        <img src="https://img.shields.io/badge/-Alcatel_Lucent-660033?style=flat&logo=nokia&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Alcatel-Lucent:</strong> ACSE & ACFE Routing & Switching Frameworks.
+        <img src="https://img.shields.io/badge/-Juniper-F44336?style=flat&logo=juniper-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Juniper Networks:</strong> JNCIS-ENT & JNCIA Core validation[cite: 74].<br>
+        <img src="https://img.shields.io/badge/-Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet:</strong> FortiGate Security Infrastructure (FCNSA)[cite: 78].<br>
+        <img src="https://img.shields.io/badge/-Check_Point-003366?style=flat&logo=checkpoint&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Check Point:</strong> CCSA GAIA Deployment systems[cite: 79].<br>
+        <img src="https://img.shields.io/badge/-Alcatel_Lucent-660033?style=flat&logo=nokia&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Alcatel-Lucent:</strong> ACSE & ACFE Routing & Switching Frameworks[cite: 82].
       </p>
     </td>
   </tr>
@@ -118,7 +118,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
   <img src="https://img.shields.io/badge/-CI%2FCD%20Pipelines-333333?style=flat-square" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-Source%20of%20Truth%20(SoT)-1A1A1A?style=flat-square" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white" height="24"> &nbsp;
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="24"> &nbsp;
+  [cite_start]<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="24"> [cite: 12] &nbsp;
   <img src="https://img.shields.io/badge/-NetBox-1A1A1A?style=flat-square&logo=netbox&logoColor=white" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="24">
 </p>
