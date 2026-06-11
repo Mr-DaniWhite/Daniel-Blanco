@@ -23,10 +23,15 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
         <img src="https://img.shields.io/badge/-VyOS-007ACC?style=flat&logo=linux&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Vyos:</strong> Deployment of open-source routing solutions for agile virtualized topologies.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">SD-WAN & Network Security</h4>
-      <p style="margin: 0; font-size: 0.95em; line-height: 2.2;">
+      <p style="margin: 0 0 20px 0; font-size: 0.95em; line-height: 2.2;">
         <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco:</strong> Design and implementation of secure enterprise wide-area networks.<br>
         <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto:</strong> Architectural leadership in Zero Trust Architecture and Panorama platforms.<br>
         <img src="https://img.shields.io/badge/-Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet:</strong> Deployment of next-generation firewalls, orchestrating automated policy updates and access reviews.
+      </p>
+      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Modeling Language</h4>
+      <p style="margin: 0; font-size: 0.95em; line-height: 2.2;">
+        <img src="https://img.shields.io/badge/-C4_Model-333333?style=flat&logo=diagrams.net&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>C4 Model:</strong> Structural software and infrastructure architecture modeling across context and containers.<br>
+        <img src="https://img.shields.io/badge/-PlantUML-4B6F96?style=flat&logo=uml&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>PlantUML:</strong> Component diagram generation via code-driven text-to-diagram specifications.
       </p>
     </td>
     <td width="50%" style="vertical-align: top; border: none; padding-left: 25px; padding-top: 0;">
@@ -76,6 +81,14 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
     </td>
   </tr>
 </table>
+
+---
+
+## <span style="color:#2196F3; font-weight: 600;">Languages</span>
+
+<p style="font-size: 1em; line-height: 1.8; margin: 0;">
+  🇬🇧 <strong>English:</strong> Professional Working Proficiency (Technical architecture design, multi-vendor client negotiation, global infrastructure documentation).
+</p>
 
 ---
 
