@@ -4,7 +4,7 @@
   <img src="daniel-blanco-banner.jpg" alt="Daniel Blanco - Data Center Fabric & Network Automation Architect" width="100%">
 </p>
 
-📍 **Madrid, Spain**
+Madrid, Spain
 
 Senior Network Engineering Leader with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures. Focused on scaling Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven environments.
 
@@ -49,7 +49,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">🌐 Extended Cloud Transit & Advanced Systems</span>
+## <span style="color:#2196F3; font-weight: 600;">Extended Cloud Transit & Advanced Systems</span>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none; background: none;">
@@ -83,7 +83,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">🛠️ Automation Stack & Programmability</span>
+## <span style="color:#2196F3; font-weight: 600;">Automation Stack & Programmability</span>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none; background: none;">
@@ -108,7 +108,43 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">🛠️ Core Architecture Patterns</span>
+## <span style="color:#2196F3; font-weight: 600;">Professional Experience</span>
+
+### <img src="https://img.shields.io/badge/-Lunik-5E2750?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Network Design Manager | Lunik
+*March 2024 - Present*
+- Leading comprehensive network design and strategy implementations across multi-vendor hybrid architectures.
+- Overseeing Zero Trust architecture integration and large scale Software-Defined datacenter fabrics.
+- Orchestrating cross-functional teams to replace legacy enterprise perimeters with modern automated networks.
+
+### <img src="https://img.shields.io/badge/-NTT-006699?style=flat-square&logo=ntt&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Team Leader - Digital Infrastructure | NTT
+*May 2008 - March 2024*
+- Managed and directed Professional Services for core data networks, unified security architectures, and advanced virtualized systems.
+- Spearheaded complex networking and design engineering projects across globally distributed Data Centers and public cloud landing zones (AWS and Azure).
+- Acted as key point of technical orchestration with premier industry vendors including Cisco, Checkpoint, Fortinet, Arista, Microsoft, VMware, Palo Alto, and Aruba.
+- Promoted to Team Leader in 2016 following a highly successful tenure as a dedicated Professional Services Engineer from 2008.
+
+### <img src="https://img.shields.io/badge/-Ditelma-4CAF50?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | Ditelma
+*2006 - 2008*
+- Executed the deployment, provisioning, and daily lifecycle management of enterprise-grade voice and data network platforms.
+- Managed multi-protocol routing environments and hardware infrastructure optimizations for business-critical communications.
+
+### <img src="https://img.shields.io/badge/-Carose-FF9800?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | Carose
+*2004 - 2006*
+- Managed infrastructure operations, system configurations, and physical deployments for integrated voice and data infrastructures.
+- Diagnosed complex layer 2 and layer 3 issues ensuring high availability across corporate access nodes.
+
+### <img src="https://img.shields.io/badge/-Lidernet
+-03A9F4?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | Lidernet
+*2003 - 2004*
+- Handled technical deployment blueprints, system maintenance, and routing management for custom client networking solutions.
+
+### <img src="https://img.shields.io/badge/-HC_2000-9C27B0?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | HC 2000
+*2002 - 2003*
+- Delivered technical support and physical infrastructure provisioning, optimizing computing hardware architectures as an enterprise systems solution.
+
+---
+
+## <span style="color:#2196F3; font-weight: 600;">Core Architecture Patterns</span>
 
 - **Cisco Enterprise Data Center Fabrics:** Structural design of high-density **Cisco ACI Multi-Pod & Multi-Site** environments. Orchestration of APIC controllers, design of multi-tenant segmentation policies (VRFs, Bridge Domains, EPGs), and secure external perimeter routing utilizing optimized **L3Out infrastructure profiles**. High-capacity deployments across **Cisco Nexus series switches** utilizing advanced vPC, Fibre Channel over Ethernet (FCoE), and out-of-band management topologies.
 - **Arista Production EVPN-VXLAN Clos Networks:** High-performance, low-latency leaf-spine modern datacenter fabrics running under **Arista EOS**. Structural engineering of Layer 3 control planes using Multi-Protocol BGP (MP-BGP), hardware-based VXLAN encapsulation, and standardized **Distributed Anycast Gateways** to reduce cross-fabric traffic. Fully orchestrated using **Arista CloudVision Portal (CVP)** for state telemetry, zero-touch provisioning (ZTP), and automated configlets enforcement.
@@ -117,7 +153,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">📡 Open-Source Labs & Production Simulation</span>
+## <span style="color:#2196F3; font-weight: 600;">Open-Source Labs & Production Simulation</span>
 
 - <img src="https://img.shields.io/badge/-Containerlab-2496ED?style=flat&logo=docker&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> **Containerized Emulation Frameworks:** Rapid prototyping and deployment of lightweight, multi-vendor network fabrics using **Containerlab** coupled with optimized **Docker** sandboxes.
 - <img src="https://img.shields.io/badge/-EVE--NG-1A1A1A?style=flat" height="20" style="vertical-align: middle; margin-right: 4px;"> **Hypervisor-Based Lab Topologies:** Design, testing, and full orchestration of complex multi-vendor network nodes inside advanced **EVE-NG** and **GNS3** environments.
@@ -162,8 +198,8 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 ## <span style="color:#2196F3; font-weight: 600;">Languages</span>
 
 <p style="font-size: 0.95em; line-height: 2.2; margin: 0;">
-  🇬🇧 <strong>English:</strong> Professional Working Proficiency (Technical architecture design, multi-vendor client negotiation, global infrastructure documentation).<br>
-  🇪🇸 <strong>Spanish:</strong> Native or Bilingual Proficiency.
+  <strong>English:</strong> Professional Working Proficiency (Technical architecture design, multi-vendor client negotiation, global infrastructure documentation).<br>
+  <strong>Spanish:</strong> Native or Bilingual Proficiency.
 </p>
 
 ---
